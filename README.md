@@ -5,7 +5,10 @@
 aka successfully created my repo
 git
 
-## Second Branch
+## Second Branch<<<<<<< HEAD
+
+hello
+there haha
 
 hnmmm experimenting
 
@@ -20,5 +23,3 @@ Second
 # THREEEEE
 
 Fourth
-
-> > > > > > > 2e3aa22519e00bec8414d556d4c6f4f8548e5a3e
